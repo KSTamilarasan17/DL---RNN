@@ -28,9 +28,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: HARISHA.S
+### Name:K.S.TAMILARASAN
 
-### Register Number:212224230087
+### Register Number:212223100056
 ```python
 import numpy as np
 import pandas as pd
